@@ -1,4 +1,4 @@
-# Types, part 1
+ # Types, part 1
 
 In the ["Syntax" section](../01_intro/01_syntax.md) `compute`'s input parameters were of type `u32`.\
 Let's unpack what that _means_.
